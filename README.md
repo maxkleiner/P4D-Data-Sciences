@@ -11,6 +11,8 @@ This is an _early access preview_, but you are encouraged to try it out, file bu
 * **Natural Language Toolkit (NLTK)** - [Demos](https://github.com/Embarcadero/P4D-Data-Sciences/tree/main/demos/NLTK) Suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English.
 * **OpenCV** - Library of programming functions mainly aimed at real-time computer vision
 * **Scikit-learn** - [[Demos](https://github.com/Embarcadero/P4D-Data-Sciences/tree/main/demos/ScikitLearn)] Machine learning library that features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN.
+* **CAI** - Library and Demo of programming functions mainly aimed for Deep Learning - MachineLearningPackage.zip
+![lazarus_maxbox_classifier1](https://user-images.githubusercontent.com/3393121/218339655-629852bb-393f-4054-8028-fa04b83104b9.jpg)
 
 Most packages have basic samples, but PyTorch has a very involed [Transfer Learning demonstration](https://github.com/Embarcadero/P4D-Data-Sciences/tree/main/demos/PyTorch/PyTorchTransferLearning).
 
