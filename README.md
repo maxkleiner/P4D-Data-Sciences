@@ -34,3 +34,12 @@ Please make sure the following are installed **_before_** installing this librar
 * [Lightweight-Python-Wrappers](https://github.com/Embarcadero/Lightweight-Python-Wrappers)
 
 Each library depends on the one above it, once these are installed this library will also install
+2 Examples one with sentiment analysis and one of weather forecasting
+
+![VirtualBox_kalilinux64_16_06_2023_23_52_45_mX47650](https://github.com/maxkleiner/P4D-Data-Sciences/assets/3393121/b67853f0-d8ed-49fe-954f-1398b634ef1d)
+
+Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy signals.
+
+![VirtualBox_kalilinux64_16_06_2023_23_31_39_mX47650](https://github.com/maxkleiner/P4D-Data-Sciences/assets/3393121/cae4b4d3-a668-47d1-bca2-8bdc61633e13)
+
+
