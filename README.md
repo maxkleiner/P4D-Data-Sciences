@@ -16,6 +16,9 @@ This is an _early access preview_, but you are encouraged to try it out, file bu
 
 Most packages have basic samples, but PyTorch has a very involed [Transfer Learning demonstration](https://github.com/Embarcadero/P4D-Data-Sciences/tree/main/demos/PyTorch/PyTorchTransferLearning).
 
+![Screenshot 2024-07-01 111505](https://github.com/maxkleiner/P4D-Data-Sciences/assets/3393121/183c7396-fc19-4d50-b405-e9500c57369b)
+
+
 ## New Packages:
 
 * [Keras](https://keras.io/) - Deep learning for humans: Keras is an API designed for human beings, not machines. Keras follows best practices for reducing cognitive load: it offers consistent & simple APIs, it minimizes the number of user actions required for common use cases, and it provides clear & actionable error messages. It also has extensive documentation and developer guides.
