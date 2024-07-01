@@ -45,4 +45,7 @@ Data science is an interdisciplinary academic field that uses statistics, scient
 
 ![VirtualBox_kalilinux64_16_06_2023_23_31_39_mX47650](https://github.com/maxkleiner/P4D-Data-Sciences/assets/3393121/cae4b4d3-a668-47d1-bca2-8bdc61633e13)
 
+Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+
+![Screenshot 2024-07-01 112005](https://github.com/maxkleiner/P4D-Data-Sciences/assets/3393121/66e7073e-fa63-4a06-a377-3425edc597a6)
 
